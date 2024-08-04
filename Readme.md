@@ -1,3 +1,3 @@
 # ddd-philosophy
-https://www.youtube.com/@msavarian
-te.me/DotnetBootcamps
+- https://www.youtube.com/@msavarian
+- https://te.me/DotnetBootcamps
